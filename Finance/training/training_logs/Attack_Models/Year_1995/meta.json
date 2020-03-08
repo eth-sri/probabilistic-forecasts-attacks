@@ -1,0 +1,43 @@
+{
+    "name": "Trained_Models",
+    "Years": [
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+    ],
+    "reps": 4
+}
+{
+    "lr": [
+        0.01
+    ],
+    "batch": [
+        1
+    ],
+    "model": [
+        {
+            "type": "tcn",
+            "n layers": 8,
+            "channels": 3,
+            "kernel size": 2
+        },
+        {
+            "type": "lstm",
+            "loss": "MSE"
+        },
+        {
+            "type": "mdn",
+            "n components": 1
+        }
+    ],
+    "early stopping": 20,
+    "max epochs": 200
+}
+{
+    "Time per run (seconds)": 750.74
+}

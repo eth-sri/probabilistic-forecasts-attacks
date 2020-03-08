@@ -1,0 +1,13 @@
+{
+    "lr": 0.01,
+    "batch": 1,
+    "model": {
+        "type": "tcn",
+        "n layers": 8,
+        "channels": 3,
+        "kernel size": 2
+    },
+    "early stopping": 20,
+    "max epochs": 200,
+    "Mean time per repetition (seconds)": 182.47
+}
