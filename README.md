@@ -9,7 +9,7 @@ and one on historical S&P500 stock prices.
 In both the **Electricity** and **Finance** folders, 
 you will find another **README** file describing how to run the experiments.
 
-# Contributor
+# Author
 
 [Raphaël Dang-Nhu](dang-nhu.fr)
 
