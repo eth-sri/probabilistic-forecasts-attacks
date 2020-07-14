@@ -59,6 +59,10 @@ The following commands will attack the models, and save the results in ``attack/
 
         python attack/attack_loop.py --fixed_epsilon --target regression --k 10 30 100 --training_folder Attack_Models --steps 10 --samples 10000 --n_iterations 1000 --batch_size 50 --max_pert 0.001 0.00158 0.00251 0.00398 0.00631 0.01 0.0158 0.0251 0.0398 0.0631 0.1 0.158 0.251 0.398 0.631 1 --learning_rate 0.001 --c 0.01 0.1 1 10 100 1000 10000 100000 --days 50 --output_folder normal_attack_regression --run --summarize
 
+## Experimental results 
+
+![figure](https://github.com/eth-sri/probabilistic-forecasts-attacks/edit/master/Finance/figure.jpg?raw=true)
+
 ## Notes
 
 Our architecture is denominated as **MDN** in the code.
