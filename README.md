@@ -12,8 +12,11 @@ you will find another **README** file describing how to run the experiments.
 # Authors
 
 [Raphaël Dang-Nhu](dang-nhu.fr)
+
 Gagandeep Singh
+
 Pavol Bielik 
+
 Martin Vechev
 
 
