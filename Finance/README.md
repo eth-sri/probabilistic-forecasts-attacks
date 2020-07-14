@@ -61,7 +61,7 @@ The following commands will attack the models, and save the results in ``attack/
 
 ## Experimental results 
 
-![figure](https://github.com/eth-sri/probabilistic-forecasts-attacks/edit/master/Finance/figure.jpg?raw=true)
+![figure](https://github.com/eth-sri/probabilistic-forecasts-attacks/edit/master/Finance/fig.pdf?raw=true)
 
 ## Notes
 
