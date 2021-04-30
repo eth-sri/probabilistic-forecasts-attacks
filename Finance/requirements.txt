@@ -33,7 +33,7 @@ toolz==0.10.0
 torch==1.2.0
 torchviz==0.0.1
 tqdm==4.36.1
-urllib3==1.25.6
+urllib3==1.25.8
 websocket-client==0.56.0
 yfinance==0.1.45
 zope.interface==4.6.0
